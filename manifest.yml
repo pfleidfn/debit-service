@@ -4,3 +4,4 @@ applications:
   env:
     SPRING_PROFILES_ACTIVE: cloud
     DEBUG: "true"
+  memory: 650M
